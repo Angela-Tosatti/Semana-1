@@ -1,0 +1,51 @@
+#main {
+    background-image: url(https://hqscomcafe.com.br/wp-content/uploads/2018/08/megamente-1-800x445.jpg);
+    background-size: 100vw;
+}
+
+#titulo {
+   background-color: blue;
+    font: normal 30pt fantasy;
+    text-align: center;
+}
+
+#texto{
+    text-align: center;
+    font: normal 15pt arial bold;
+}
+
+.estiloBarra{
+    text-decoration: none;
+    color: black;
+    font: normal 15pt arial;
+    margin: 5px 5px;
+}
+
+
+.sombreado {
+    color: white;
+    text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
+}
+
+#imagem{
+    border-radius: 15px;
+    position: absolute;
+    left: 3px;
+    bottom: 350px;
+    opacity: 0.6;
+}
+.Tempo{
+    font: bold 20pt arial;
+    text-align: left;
+    color: black;
+    line-height: 5px;
+    position: absolute;
+    bottom: 10px;   
+}
+#hora {
+    position: absolute;
+    color: whitesmoke;
+    text-align: right;
+    right: 10px;
+    bottom: 10px;
+}
